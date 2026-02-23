@@ -1,6 +1,6 @@
 export const config = {
   github: {
-    login: "TheIndexedPath",
+    login: "forgetmima@gmail.com",
     repo: "urodele",
     logInUrl: "",
     logInAuthUrl: "",
