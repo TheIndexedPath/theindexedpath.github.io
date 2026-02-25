@@ -1,7 +1,7 @@
 export const config = {
   github: {
     login: "TheIndexedPath",
-    repo: "urodele",
+    repo: "theindexedpath.github.io",
     logInUrl: "",
     logInAuthUrl: "",
   },
